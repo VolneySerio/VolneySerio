@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Volney</h1>
 <h3 align="center">Student of Digital Systems and Media. Passionate about Japanese language (Currently in the fourth semester of the Japanese course at UECE) and Design (I'm still improving in both).</h3>
 
-- 🔭 I’m currently working on **Discord Clone**
+- 🔭 I’m currently working on **Jisho Volneba**
 
 - 📫 How to reach me **volneyserio@gmail.com**
 
