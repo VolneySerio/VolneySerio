@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Volney</h1>
-<h3 align="center">Student of Digital Systems and Media. Passionate about Japanese language and Design (I'm still improving in both).</h3>
+<h3 align="center">Student of Digital Systems and Media. Passionate about Japanese language (Currently in the fourth semester of the Japanese course at UECE) and Design (I'm still improving in both).</h3>
 
 - 🔭 I’m currently working on **Discord Clone**
 
 - 📫 How to reach me **volneyserio@gmail.com**
 
-- ⚡ Fun fact **Why do kanji have to be so difficult?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
